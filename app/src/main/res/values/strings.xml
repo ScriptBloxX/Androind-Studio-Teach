@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">my_cats</string>
+    <string name="title_activity_cats">cats</string>
+</resources>
